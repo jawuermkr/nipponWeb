@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url("../img/header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.white {
+    background: #ffffff;
+    padding: 2%;
+}
+h2 {
+    color: #ffffff;
+    font-family: 'Rubik Dirt', cursive;
+    font-size: 72px !important;
+}
+h3 {
+    color: #ffffff;
+    font-family: 'Rubik Dirt', cursive;
+    font-size: 36px !important;
+}
