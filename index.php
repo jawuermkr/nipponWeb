@@ -2,6 +2,7 @@
     <head>
         <link href="css/estilos.css" rel="stylesheet">
         <title> Surti Nippon SAS </title>
+        <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1">
         <!-- CSS only -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
         <!-- JavaScript Bundle with Popper -->
@@ -31,54 +32,67 @@
         </nav>
         <div class="text-center m-5">
             <h2>Surti Nippon SAS<h2>
-            <h3>¡Distribuidores especializados en calidad y servicio!</h3>
+            <h3>¡Importadores directos de honda y subaru!</h3>
             <a href="https://api.whatsapp.com/send?phone=573154937449" target="_blank"><button class="btn btn-outline-success m-5">¡Habla con un asesor!</button></a>
         </div>
     </header>
     <div class="white">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
-                <img src="img/motor.png" width="90%">
-            </div>
-            <div class="col-md-6">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-            </div>
-            <div class="col-md-2">
-                <img src="img/chevrolet.png" width="90%"/>
-            </div>
-            <div class="col-md-2">
+            <h4>¡Productos destacados!</h4>
+            <div class="col-md-3">
                 <img src="img/citroen.png" width="90%"/>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-3">
                 <img src="img/honda.png" width="90%"/>
             </div>
-            <div class="col-md-2">
-                <img src="img/hyundai.png" width="90%"/>
-            </div>
-            <div class="col-md-2">
-                <img src="img/kia.png" width="90%"/>
-            </div>
-            <div class="col-md-2">
-                <img src="img/mitsubishi.png" width="90%"/>
-            </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-2">
-                <img src="img/nissan.png" width="90%"/>
-            </div>
-            <div class="col-md-2">
+            <div class="col-md-3">
                 <img src="img/peugeot.png" width="90%"/>
             </div>
-            <div class="col-md-2">
-                <img src="img/renault.png" width="90%"/>
-            </div>
-            <div class="col-md-2">
+            <div class="col-md-3">
                 <img src="img/subaru.png" width="90%"/>
             </div>
-            <div class="col-md-2">
-                <img src="img/toyota.png" width="90%"/>
+
+
+            <div class="col-md-6">
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                <img src="img/auto1.png" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                <img src="img/auto2.png" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                <img src="img/auto3.png" class="d-block w-100" alt="...">
+                </div>
             </div>
-            <div class="col-md-1"></div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+            </div>
+            </div>
+            <div class="col-md-6">
+                <h4>VALORES</h4> 
+                <p>Somos una empresa transparente con sentido de responsabilidad y puntualidad con nosotros y nuestros clientes, en la cual nos enfocamos en la excelencia de nuestros servicios para poder orientarlos en calidad y referencias para sus vehículos.</p>
+            </div>
+            <div class="col-md-3">
+                <img src="img/citroen.png" width="90%"/>
+            </div>
+            <div class="col-md-3">
+                <img src="img/honda.png" width="90%"/>
+            </div>
+            <div class="col-md-3">
+                <img src="img/peugeot.png" width="90%"/>
+            </div>
+            <div class="col-md-3">
+                <img src="img/subaru.png" width="90%"/>
+            </div>
         </div>
     </div>
     </div>
