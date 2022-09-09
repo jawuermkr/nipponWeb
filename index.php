@@ -41,6 +41,9 @@
                 <a class="nav-link" href="#contacto">Contacto</a>
             </div>
             </div>
+            <div class="text-rigth">
+            <a class="nav-link" href="https://api.whatsapp.com/send?phone=573154937449"><small>Carrera 27 #67-12 <b>|</b> 601 5724212 <b>|</b> 315 4937449</small></a>
+            </div>
         </div>
         </nav>
         <div class="text-center m-5">
@@ -54,7 +57,7 @@
             <div class="col-md-8">
                 <h2>Surti Nippon SAS<h2>
                 <h3>¡Importadores directos de honda y subaru!</h3>
-                <a href="https://api.whatsapp.com/send?phone=573154937449" target="_blank"><button class="btn btn-outline-success m-5">¡Habla con un asesor!</button></a>
+                <a href="https://api.whatsapp.com/send?phone=573154937449" target="_blank"><button class="btn btn-success m-5">¡Habla con un asesor!</button></a>
             </div>
             <div class="col-md-2">
                 <img src="img/peugeot.png" width="90%"/>
@@ -87,9 +90,9 @@
                 <img src="img/product06.png" width="90%"/>    
             </div>
             <hr>
-            <div class="col-md-12">
+            <div class="col-md-12 text-center">
             <p>Conoce todo lo que tenemos para tu vehículo. Contacta ahora con nuestros profesionales.</p>
-            <a class="btn btn-outline-success" href="#contacto"><buuton width="100px">¡Cotizar!</button></a>
+            <a class="btn btn-outline-success" href="#contacto">   ¡Cotizar!   </a>
             </div>
         </div>
     </div>
@@ -98,19 +101,22 @@
     <div class="container">
         <div class="row text-white">
             <div class="col-md-6 p-3">
-                <img src="img/colombia.png" width="60%"/>
+                <img src="img/colombia.png" width="81%"/>
             </div>
             <div class="col-md-6">
                 <h3>¡Envíos a todo Colombia!</h3>
                 <p>Lo que tú necesitas, donde lo necesites. <br/>
-                - Medellín.<br/>
-                - Cartagena.<br/>
+                - Barranquilla.<br/>
+                - Boyacá.<br/>
+                - Bucaramanga.<br/>
                 - Caldas.<br/>
                 - Cali.<br/>
+                - Cartagena.<br/>
+                - Cundinamarca.<br/>
+                - Medellín.<br/>
+                - Pereira.<br/>
                 - Santa Marta.<br/>
-                - Barranquilla.<br/>
                 - Villavicencio.<br/>
-                - Bucaramanga.<br/>
                 </p>
             </div>
         </div>
